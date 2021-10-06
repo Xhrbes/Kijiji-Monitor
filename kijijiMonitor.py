@@ -6,7 +6,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from pytz import timezone 
 
-url = 'INSERT YOUR OWN VALID KIJIJI LINK TO MONITOR'
+url = 'INSERT YOUR OWN KIJIJI LINK TO MONITOR'
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36'}
 
 def NewListing(KijijiListing):
