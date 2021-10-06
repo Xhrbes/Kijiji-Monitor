@@ -7,6 +7,7 @@ You must generate the website URLs yourself through the Kijiji website. Set up a
 
 
 (Example)
+
 https://www.kijiji.ca/b-nintendo-ds/city-of-london/pokemon/l5t72621750472?ll=31.686795%2C-23.012845&address=123+testing+lane+London+ON+H0+H0H+Canada&radius=50.0
 
 Possible Errors
